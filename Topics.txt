@@ -1,0 +1,5 @@
+# What is the difference between Extend and Append in Python
+1. append(): adds one item as a single element.
+2. extend(): adds all items from an iterable, effectively extending the list with those individual items.
+
+%%%%%%%%%%%%%%%      
